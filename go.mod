@@ -1,4 +1,4 @@
-module test
+module github.com/leocong/test
 
 go 1.22.4
 
