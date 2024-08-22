@@ -2,11 +2,11 @@ package middle
 
 import (
 	"context"
+	"github.com/leocong/test/common"
 	"github.com/redis/go-redis/v9"
 	"net/http"
 	"slices"
 	"strings"
-	"test/common"
 )
 
 // 权限校验中间件

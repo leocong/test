@@ -3,10 +3,10 @@ package middle
 import (
 	"bytes"
 	"fmt"
+	"github.com/leocong/test/common"
 	"io"
 	"net/http"
 	"strings"
-	"test/common"
 )
 
 // 日志处理中间件
